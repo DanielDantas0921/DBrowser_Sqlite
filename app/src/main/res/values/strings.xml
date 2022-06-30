@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DB Browser e criaçãode DB Helper</string>
+    <string name="novo_utilizador">Novo Utilizador</string>
+    <string name="insira_o_username">Insira o username</string>
+    <string name="insira_o_password">insira o password</string>
+    <string name="gravar">Gravar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="novo_utilizador1">Novo Utilizador</string>
+    <string name="dados_do_utilizador">Dados do Utilizador</string>
+</resources>
